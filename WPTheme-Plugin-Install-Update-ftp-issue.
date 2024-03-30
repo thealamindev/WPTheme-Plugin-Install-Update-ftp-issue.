@@ -1,0 +1,1 @@
+Go To Your WordPress File -> Open wp-config.php file in any code editor-> add this line in the end : define('FS_METHOD','direct');
